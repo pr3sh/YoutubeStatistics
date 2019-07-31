@@ -1,0 +1,12 @@
+name: shinyDashBoard
+title: shinyDashBoard
+username:
+account: preciousc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1045996
+bundleId: 2260854
+url: https://preciousc.shinyapps.io/shinyDashBoard/
+when: 1563978641.55451
+asMultiple: FALSE
+asStatic: FALSE
